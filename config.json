@@ -10,8 +10,8 @@
         "access-token": null,
         "restricted": true
     },
-    "autosave": true,
-    "background": false,
+    "autosave": false,
+    "background": true,
     "colors": true,
     "title": true,
     "randomx": {
@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 100,
+        "max-threads-hint": 50,
         "asm": true,
         "argon2-impl": null,
         "astrobwt-max-size": 550,
@@ -65,7 +65,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "rx.unmineable.com:3333",
-            "user": "SHIB:0xbFe944547Eb4Bd283d8F8A425f889Bb3Bce0EBE9.Appon1",
+            "user": "SHIB:0xbFe944547Eb4Bd283d8F8A425f889Bb3Bce0EBE9.normal",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
